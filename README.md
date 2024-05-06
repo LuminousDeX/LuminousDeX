@@ -1,4 +1,4 @@
-- Hello there stranger! I’m @LuminousDeX.
+- Hello there stranger! I’m LuminousDeX or just call Dex as in short.
 - I'm 16 years old
 - I’m interested in Programming
 - I’m currently learning Java
