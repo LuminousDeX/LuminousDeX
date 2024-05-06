@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @LuminousDeX
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: he/him
+- Hello there stranger! I’m @LuminousDeX.
+- I'm 16 years old
+- I’m interested in Programming
+- I’m currently learning Java
+- I also love to read books/mangas in my free time!
+- Pronouns: he/him (or just call me whatever you want. I don't really care lol)
 
 
 <!---
