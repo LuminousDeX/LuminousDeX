@@ -1,7 +1,7 @@
-- Hello there stranger! I’m LuminousDeX or just call Dex as in short.
-- I'm 16 years old.
+- Hello there stranger! I’m Luminex or just call Lumi as in short.
+- I'm 17 years old.
 - I’m interested in Programming
-- I’m currently learning C
+- I’m currently learning Rust
 - I also love to read books/mangas in my free time!
 - Pronouns: he/him (or just call me whatever you want. I don't really care lol)
 
